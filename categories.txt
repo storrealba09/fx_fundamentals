@@ -1,0 +1,206 @@
+China Currency
+China Reverse Repo Rate
+China Foreign Direct Investment
+China Food Inflation
+China Inflation Rate
+China Foreign Exchange Reserves
+China Services PMI
+China Composite PMI
+China Manufacturing PMI
+China Non Manufacturing PMI
+China Business Confidence
+China Interest Rate
+China Imports
+China Exports
+China Balance Of Trade
+China GDP Growth Rate
+China Composite Pmi
+China Money Supply M2
+China GDP Annual Growth Rate
+China Coronavirus Cases
+China Unemployment Rate
+China Government Bond 10Y
+China Gold Reserves
+China News
+China Gdp Growth Rate
+China Gdp Annual Growth Rate
+China Indicators
+New Zealand Currency
+New Zealand Unemployment Rate
+New Zealand Imports
+New Zealand Exports
+New Zealand Balance Of Trade
+New Zealand Services PMI
+New Zealand Inflation Rate
+New Zealand Manufacturing PMI
+New Zealand Consumer Confidence
+New Zealand Food Inflation
+New Zealand Business Confidence
+New Zealand Interest Rate
+New Zealand Government Bond 10Y
+New Zealand GDP Growth Rate
+New Zealand Services Pmi
+New Zealand GDP Annual Growth Rate
+New Zealand Inflation Rate Mom
+New Zealand Bond
+New Zealand Gdp Growth Rate
+Australia Currency
+Australia Business Confidence
+Australia Imports
+Australia Exports
+Australia Balance Of Trade
+Australia Interest Rate
+Australia Manufacturing PMI
+Australia Government Bond 10Y
+Australia Food Inflation
+Australia Inflation Rate
+Australia Composite PMI
+Australia Unemployment Rate
+Australia Consumer Confidence
+Australia Construction PMI
+Australia GDP Growth Rate
+Australia Composite Pmi
+Australia Services PMI
+Australia Construction Pmi
+Australia Bond
+Australia Inflation Rate Mom
+Australia Gdp Growth Rate
+Switzerland Unemployment Rate
+Switzerland Consumer Confidence
+Switzerland Manufacturing PMI
+Switzerland Business Confidence
+Switzerland Balance Of Trade
+Switzerland Currency
+Switzerland Inflation Rate
+Switzerland Interest Rate
+Switzerland GDP Growth Rate
+Switzerland Services Pmi
+Switzerland Government Bond 10Y
+Switzerland Exports
+Switzerland GDP Annual Growth Rate
+Switzerland Gdp Growth Rate
+Denmark Inflation Rate
+Denmark Balance Of Trade
+Denmark Manufacturing PMI
+Denmark Unemployment Rate
+Denmark Business Confidence
+Denmark Consumer Confidence
+Denmark Currency
+Denmark GDP Growth Rate
+Denmark Manufacturing Pmi
+Denmark Interest Rate
+Sweden Services PMI
+Sweden Manufacturing PMI
+Sweden GDP Growth Rate
+Sweden Unemployment Rate
+Sweden Consumer Confidence
+Sweden Business Confidence
+Sweden Balance Of Trade
+Sweden Inflation Rate
+Sweden Interest Rate
+Sweden Services Pmi
+Sweden Currency
+Sweden Gdp Growth Rate
+Singapore Composite PMI
+Singapore Manufacturing PMI
+Singapore Unemployment Rate
+Singapore Inflation Rate
+Singapore GDP Annual Growth Rate
+Singapore Currency
+Singapore Composite Pmi
+Singapore GDP Growth Rate
+Singapore Interest Rate
+Singapore Balance Of Trade
+Singapore Gdp Annual Growth Rate
+Singapore Gdp Growth Rate
+Canada Business Confidence
+Canada Currency
+Canada Imports
+Canada Exports
+Canada Unemployment Rate
+Canada Balance Of Trade
+Canada Manufacturing PMI
+Canada Government Bond 10Y
+Canada Interest Rate
+Canada Inflation Rate
+Canada GDP Growth Rate
+Canada Bond
+Canada Gdp Growth Rate
+Canada News
+Euro Area Currency
+Euro Area Construction PMI
+Euro Area Inflation Rate
+Euro Area Composite PMI
+Euro Area Services PMI
+Euro Area GDP Growth Rate
+Euro Area Unemployment Rate
+Euro Area Manufacturing PMI
+Euro Area Consumer Confidence
+Euro Area Interest Rate
+Euro Area Balance Of Trade
+Euro Area Composite Pmi
+Euro Area Construction Pmi
+Euro Area Imports
+Euro Area Exports
+Euro Area GDP Annual Growth Rate
+Euro Area Business Confidence
+Euro Area Gdp Growth Rate
+Euro Area News
+Japan Currency
+Japan Government Bond 10Y
+Japan Services PMI
+Japan Composite PMI
+Japan Manufacturing PMI
+Japan Consumer Confidence
+Japan Unemployment Rate
+Japan Inflation Rate
+Japan Interest Rate
+Japan Imports
+Japan Exports
+Japan Balance Of Trade
+Japan Business Confidence
+Japan GDP Growth Rate
+Japan Services Pmi
+Japan GDP Growth Annualized
+Japan Composite Pmi
+Japan Bond
+Japan Money Supply M3
+Japan Gdp Growth Rate
+United States Crude Oil Stocks Change
+United States Currency
+United States Inflation Rate
+United States API Crude Oil Stock Change
+United States Government Bond 10Y
+United States Imports
+United States Exports
+United States Balance Of Trade
+United States Unemployment Rate
+United States Non Manufacturing PMI
+United States Composite PMI
+United States Services PMI
+United States Business Confidence
+United States Manufacturing PMI
+United States Consumer Confidence
+United States GDP Growth Rate
+United States Interest Rate
+United Kingdom Currency
+United Kingdom Interest Rate
+United Kingdom Construction PMI
+United Kingdom Composite PMI
+United Kingdom Services PMI
+United Kingdom Government Bond 10Y
+United Kingdom Manufacturing PMI
+United Kingdom Unemployment Rate
+United Kingdom Consumer Confidence
+United Kingdom Business Confidence
+United Kingdom Inflation Rate
+United Kingdom Imports
+United Kingdom Exports
+United Kingdom Composite Pmi
+United Kingdom GDP Annual Growth Rate
+United Kingdom Balance Of Trade
+United Kingdom GDP Growth Rate
+United Kingdom Construction Pmi
+United Kingdom Bond
+United Kingdom Gdp Growth Rate
+United Kingdom Gdp Annual Growth Rate
